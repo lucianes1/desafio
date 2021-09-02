@@ -9,6 +9,7 @@ Git: 2.31.1<br>
 Android Studio 4.2.1
 
 1 - Baixe o projeto completo ou execute "git clone https://github.com/lucianes1/desafio.git"<br>
-2 - Execute o comando "flutter pub get" (para baixar todas dependencias necessarias) <br>
-3 - Abra o projeto e compile em um emulador/dispositivo real ou execute o comando "flutter run"<br>
-4 - 😉
+2 - Execute o comando "cd desafio" <br>
+3 - Execute o comando "flutter pub get" (para baixar todas dependencias necessarias) <br>
+4 - Abra o projeto e compile em um emulador/dispositivo real ou execute o comando "flutter run"<br>
+5 - 😉
