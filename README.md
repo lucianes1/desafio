@@ -5,7 +5,7 @@ Obs: Para executar os comandos abaixo é necessário ter as bibliotecas FLUTTER 
 Versão testada:
 
 Flutter: 2.0.4<br>
-Git: 2.31.1
+Git: 2.31.1<br>
 Android Studio 4.2.1
 
 1 - Baixe o projeto completo ou execute "git clone https://github.com/lucianes1/desafio.git"<br>
