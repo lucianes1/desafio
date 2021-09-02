@@ -6,6 +6,7 @@ Versão testada:
 
 Flutter: 2.0.4<br>
 Git: 2.31.1
+Android Studio 4.2.1
 
 1 - Baixe o projeto completo ou execute "git clone https://github.com/lucianes1/desafio.git"<br>
 2 - Execute o comando "flutter pub get" (para baixar todas dependencias necessarias) <br>
